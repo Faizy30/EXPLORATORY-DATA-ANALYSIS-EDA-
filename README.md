@@ -1,5 +1,6 @@
 # EXPLORATORY-DATA-ANALYSIS-EDA-
 EDA- EXPLORATORY DATA ANALYSIS - PYTHON-JUPYTER NOTEBOOK
+
 In this  project , ihave done an Exploratory Data Analysis to analyze,to visualize and to summarize all about a dataset of employees working in ABC company.Steps to perform this project are as the following: 
 
 step1:imported the required modules numpy,pandas,seaborn,matplotlib 
